@@ -5,8 +5,4 @@
   
   -The whole project has a simple-looking UI design. This is developed in android studio using Java.
   
-We worked as a team of four for this project:
-- 2019A7PS0014H - Simhadri Surya Kiran.
-- 2019A7PS0061H - Madepalli Balu Pavan.
-- 2019A7PS0067H - Guthula Baladhitya.
-- 2019A7PS0044H - Vundavalli Harsha Vardhan.
+
